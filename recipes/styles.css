@@ -1,0 +1,26 @@
+h1 {
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: 1000;
+    text-align: center;
+    background-color: rgb(127, 255, 212);    
+}
+
+body.main-page {
+    background-color: rgba(180, 235, 216, 0.801);
+}
+
+.head,.paragraph {
+    text-align:center;
+}
+
+div img {
+    display:block;
+}
+
+.ingredients1,.ingredients2,.ingredients3 {
+    background-color: rgb(247, 213, 185);
+}
+
+.chicken {
+    background-color: blueviolet;
+}
